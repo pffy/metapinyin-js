@@ -1,0 +1,20 @@
+{
+  "name": "metapinyin-js",
+  "version": "0.1.0",
+  "description": "Hanyu Pinyin utility class",
+  "main": "./obj.js",
+  "scripts": {
+    "test": "node ./test/test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pffy/metapinyin-js.git"
+  },
+  "keywords": [],
+  "author": "The Pffy Authors (https://pffy.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pffy/metapinyin-js/issues"
+  },
+  "homepage": "https://github.com/pffy/metapinyin-js#readme"
+}
